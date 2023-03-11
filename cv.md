@@ -1,6 +1,6 @@
 # Anstasiya Tsarikevich
 
-!["Avatar"](./photo.png)
+!["Avatar"](./photo.jpg)
 
 ### Contacts: 
 +37529751055
