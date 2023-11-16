@@ -12,3 +12,30 @@ Faculty of Chemistry, Belarusian State University, Minsk
 I’m signing up for the RS School course to learn a new profession as a Frontent developer. My first acquaintance with this area occurred during the introductory course at Yandex.Paraktikum - and I really liked it. Learned to use basic tools to create web applications using HTML, CSS, JavaScript. I wish to continue to acquire skills and develop in this direction.
 
 Example code
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8">
+    <title>The Life of Coder</title>
+    <link
+      rel="icon"
+      href="https://code.s3.yandex.net/web-code/images/playlist-favicon.ico"
+    />
+    <link
+      rel="stylesheet"
+      href="style.css"
+    />
+  </head>
+  <body>
+    <div>
+      <h1>The Life of</h1>
+      <h2>Coder</h2>
+      <img
+        src="https://pictures.s3.yandex.net/frontend-developer/free-course/mountains.jpg"
+        alt="Чёрно-белая фотография гор в тумане"
+      />
+    </div>
+    <p><a target="_blank" href="https://music.yandex.ru/users/ynx-praktikum/playlists/1002">Плейлист</a> для беспечного занятия кодингом.</p>
+    <p>Один раз послушал — семь раз покодил.</p>
+  </body>
+</html> 
