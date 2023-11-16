@@ -1,5 +1,5 @@
 TSARIKEVICH ANASTASIA NIKOLAEVNA
-
+![foto] (https://sun9-32.userapi.com/impg/5kKcwxevaLtXmOGSqUYzoIPeswgbnuAJI2Xblg/9kBZwmb5_X8.jpg?size=1442x2160&quality=95&sign=93f6212731d6e2830f682bda0943380b&type=album)
 Date of birth: July 12, 1998
 Minsk city
 Phone: +375297510555
